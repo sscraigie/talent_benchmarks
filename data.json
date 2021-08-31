@@ -1,0 +1,57 @@
+{
+    "attributions": [
+      {
+        "name": "Wikipedia",
+        "text": "Wikipedia extracts are distributed under the CC BY-SA license (https://creativecommons.org/licenses/by-sa/3.0/)"
+      }
+    ],
+    "data": [
+      {
+        "id": "KS120076FGP5WGWYMP0F",
+        "infoUrl": "https://skills.emsidata.com/skills/KS120076FGP5WGWYMP0F",
+        "name": "Java (Programming Language)",
+        "type": {
+          "id": "ST1",
+          "name": "Hard Skill"
+        }
+      },
+      {
+        
+        "id": "KS1200771D9CR9LB4MWW",
+        "infoUrl": "https://skills.emsidata.com/skills/KS1200771D9CR9LB4MWW",
+        "name": "JavaScript (Programming Language)",
+        "type": {
+          "id": "ST1",
+          "name": "Hard Skill"
+        }
+      },
+      {
+        "id": "KS123KG6DL8N3D5ZW036",
+        "infoUrl": "https://skills.emsidata.com/skills/KS123KG6DL8N3D5ZW036",
+        "name": "Java Platform Enterprise Edition (J2EE)",
+        "type": {
+          "id": "ST1",
+          "name": "Hard Skill"
+        }
+      },
+      {
+        "id": "KS124PR62MV42B5C9S9F",
+        "infoUrl": "https://skills.emsidata.com/skills/KS124PR62MV42B5C9S9F",
+        "name": "Hibernate (Java)",
+        "type": {
+          "id": "ST1",
+          "name": "Hard Skill"
+        }
+      },
+      {
+        "id": "KS125HL70PSCMY4FSF0M",
+        "infoUrl": "https://skills.emsidata.com/skills/KS125HL70PSCMY4FSF0M",
+        "name": "JavaScript Frameworks",
+        "type": {
+          "id": "ST1",
+          "name": "Hard Skill"
+        }
+      }
+    ]
+ 
+  }

@@ -1,0 +1,11 @@
+Notes
+_____________________
+API in React:
+https://www.youtube.com/watch?v=4IkzPbVUZVc&list=PLzMcBGfZo4-nRV61oEu3KfMwWKI571uPT&index=10
+
+
+
+Command
+________________
+Start App:              npm start
+Start json-server       json-server data.json --port 8000  
